@@ -25,7 +25,7 @@ com.elevatelabs.tasks
 
 ## How to Run
 1. Clone the repository  
- ```bash
+ ```bash`
  git clone <your-repo-link>
 2. Open the project in Eclipse (or any IDE).
 3. Run the file: ConsoleCalculator.java
@@ -39,5 +39,5 @@ Error handling (division by zero)
 
 ## File Structure
 com.elevatelabs.tasks
- └── ConsoleCalculator.java
+└── ConsoleCalculator.java
 
