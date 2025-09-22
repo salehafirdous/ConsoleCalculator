@@ -31,11 +31,11 @@ com.elevatelabs.tasks
 3. Run the file: ConsoleCalculator.java
 
 ## Concepts Learned:
-Java methods
-Conditionals
-Loops (while, switch)
-Scanner for input
-Error handling (division by zero)
+1) Java methods
+2) Conditionals
+3) Loops (while, switch)
+4) Scanner for input
+5) Error handling (division by zero)
 
 ## File Structure
 com.elevatelabs.tasks
