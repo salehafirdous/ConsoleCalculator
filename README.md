@@ -3,6 +3,9 @@
 This project is part of my **Elevate Labs Java Developer Internship**.  
 The objective is to build a **basic calculator** using Java console input/output.
 
+## Description
+This is a simple Java console-based calculator that can perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+
 ## Project Structure
 - Base package: `com.elevatelabs.tasks`
 - Each task is represented as a **Java class** inside this package.
@@ -39,3 +42,6 @@ com.elevatelabs.tasks
 ## File Structure
 com.elevatelabs.tasks
  └── ConsoleCalculator.java
+
+**Name:** Saleha Firdous Syed Qamar  
+**Domain:** Java Full Stack Development
