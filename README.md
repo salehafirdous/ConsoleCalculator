@@ -7,7 +7,7 @@ The objective is to build a **basic calculator** using Java console input/output
 ## Project Structure
 - Base package: `com.elevatelabs.tasks`
 - Each task is represented as a **Java class** inside this package.
-- Example:
+Example:
 com.elevatelabs.tasks
 ├── ConsoleCalculator.java (Task 1)
 ├── xyz.java (Task 2)
@@ -39,5 +39,5 @@ com.elevatelabs.tasks
 
 ## File Structure
 com.elevatelabs.tasks
-└── ConsoleCalculator.java
+└─ ConsoleCalculator.java
 
